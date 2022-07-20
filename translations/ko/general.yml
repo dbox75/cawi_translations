@@ -1,20 +1,20 @@
 # This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
 indicator: 지표
 # This is the plural version of the indicator key
-indicators: 지표
+indicators: 세부 지표
 # This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
-goal: 목표
+goal: 영역
 # This is the plural version of the goal key
-goals: 17개 목표
-goals_title: 한국의 SDGs 데이터 플랫폼
+goals: 수도권 광역지표
+goals_title: 수도권 광역지표 온라인 서비스<br><테스트 페이지>
 sdg: 지속가능발전목표
 # This refers to the 'home page' of a website
 home: Home
 loading: 검색 결과를 불러오고 있습니다.
 opens_new_window: 새 창에서 열기
 hide: hide
-target: 세부목표
-targets: 세부목표
+target: 하위영역
+targets: 하위 영역
 twitter: Twitter
 facebook: Facebook
 built_using_open_sdg: Built using Open SDG
@@ -24,9 +24,12 @@ targets_and_indicators: Targets and indicators
 # A label of "Warning" to place before some other text.
 label_warning: "Warning:"
 # A phrase to use as a site-wide page title.
-site_title: 한국의 SDGs 데이터 플랫폼
+site_title: 수도권 광역지표 온라인 서비스
 back_to_top: Back to top
-footer_notice: 이 웹사이트는 통계청 통계개발원에서 운영하는 공식 플랫폼입니다.<br>35220 대전광역시 서구 한밭대로 713 통계센터 통계개발원 &nbsp; &nbsp; Fax： 042 366 7123  &nbsp; &nbsp; Email： sdgkostat@korea.kr
+footer_notice: 이 웹사이트는 테스트중입니다.<br>테스트&nbsp; &nbsp; Fax： 000 000 0000  &nbsp; &nbsp; Email： test@test.com
 piece: 개
 reporting_status_comment: 231개 지표 기준시, 163개 지표 이용 가능
 quote: 인용
+semi_goal_A: 경쟁력 지표
+semi_goal_B: 발전 지표
+semi_goal_C: 생활 지표
